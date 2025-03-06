@@ -1,0 +1,115 @@
+Below is a WIDA-aligned lesson plan for grades 9-12 that incorporates WIDA Standards 1 (Social and Instructional Language) and 3 (Language of Mathematics), focusing on the Key Language Use of "Argue." The lesson is designed for English Language Learners (ELLs) at the Emerging, Developing, and Bridging proficiency levels. The topic is "Analyzing Data to Argue a Point," integrating mathematical reasoning with persuasive communication.
+
+---
+
+### WIDA-Aligned Lesson Plan: Analyzing Data to Argue a Point  
+**Grade Level:** 9-12  
+**Subject:** Integrated Math and Language Arts  
+**Duration:** 60 minutes  
+**WIDA Standards:**  
+- **Standard 1:** Social and Instructional Language – Communicate for social and instructional purposes within the school setting.  
+- **Standard 3:** Language of Mathematics – Communicate information, ideas, and concepts necessary for academic success in mathematics.  
+**Key Language Use:** Argue – Construct and defend claims using evidence and reasoning.  
+**Proficiency Levels Addressed:** Emerging, Developing, Bridging  
+
+---
+
+### Lesson Objectives  
+#### Content Objectives:  
+- Students will interpret data from a graph or table (e.g., climate change statistics, population growth, or survey results).  
+- Students will use mathematical evidence to construct an argument supporting or opposing a given claim.  
+
+#### Language Objectives:  
+- **Emerging:** Students will use sentence starters and key vocabulary to state a simple argument based on data (e.g., "I think ___ because the graph shows ___").  
+- **Developing:** Students will use transition words (e.g., "therefore," "however") and descriptive language to explain their argument with at least two pieces of evidence from the data.  
+- **Bridging:** Students will use precise mathematical vocabulary (e.g., "trend," "correlation," "increase") and complex sentences to construct a detailed argument with multiple pieces of evidence and a counterclaim.  
+
+---
+
+### Materials  
+- Graph or table with data (e.g., "Average Global Temperatures Over Time" or "Teen Social Media Use Statistics")  
+- Graphic organizers (argument templates differentiated by proficiency level)  
+- Sentence starters and word banks (e.g., "evidence," "supports," "opposes," "data shows")  
+- Whiteboard or chart paper  
+- Access to devices (optional for research or visuals)  
+
+---
+
+### Lesson Activities  
+
+#### Warm-Up (10 minutes): Activate Background Knowledge  
+- **Activity:** Display a simple bar graph (e.g., "Hours of Sleep Teens Get Per Night"). Ask students: "What do you see? What does this tell us?"  
+- **Differentiation:**  
+  - **Emerging:** Students point to and label parts of the graph (e.g., "high," "low") with teacher support.  
+  - **Developing:** Students write one sentence about the graph using a sentence starter (e.g., "The graph shows ___").  
+  - **Bridging:** Students write a short paragraph predicting what the data might mean.  
+- **WIDA Connection:** Standard 1 – Students use social language to discuss observations collaboratively.  
+
+#### Direct Instruction (15 minutes): Modeling Argumentation  
+- **Teacher Action:** Present a sample claim (e.g., "Teens need more sleep based on this data"). Model how to:  
+  1. State a claim.  
+  2. Use data as evidence (e.g., "The graph shows 60% of teens sleep less than 7 hours").  
+  3. Explain reasoning (e.g., "This is bad because teens need 8-10 hours to focus in school").  
+- **Language Focus:** Introduce key vocabulary (e.g., "claim," "evidence," "reasoning") and sentence frames (e.g., "The data shows ___; therefore, I believe ___").  
+- **Differentiation:**  
+  - **Emerging:** Provide a word bank and fill-in-the-blank argument template.  
+  - **Developing:** Offer a partially completed graphic organizer with prompts.  
+  - **Bridging:** Encourage independent note-taking with optional advanced terms (e.g., "correlation").  
+- **WIDA Connection:** Standard 3 – Students learn mathematical language to interpret and argue with data.  
+
+#### Guided Practice (20 minutes): Small Group Work  
+- **Activity:** Students work in mixed-proficiency groups to analyze a new data set (e.g., "Carbon Emissions by Country") and argue for or against a claim (e.g., "Country X should reduce emissions").  
+- **Roles:**  
+  - Emerging students identify one piece of evidence from the data with peer support.  
+  - Developing students write a short argument (claim + evidence + reasoning).  
+  - Bridging students lead the group, adding a counterclaim (e.g., "Some might say ___ but the data shows ___").  
+- **Support:** Circulate to provide sentence starters, model questioning, or clarify vocabulary.  
+- **WIDA Connection:** Standard 1 – Students collaborate using instructional language; Standard 3 – Students apply math language to argue.  
+
+#### Wrap-Up (15 minutes): Share and Reflect  
+- **Activity:** Each group presents their argument to the class (oral or written).  
+- **Differentiation:**  
+  - **Emerging:** Read a single sentence aloud with teacher prompting.  
+  - **Developing:** Share a short paragraph with peer support.  
+  - **Bridging:** Present a full argument and respond to a peer’s question.  
+- **Reflection:** Students answer: "What was easy or hard about using data to argue?"  
+
+---
+
+### Assessments  
+#### Formative Assessment:  
+- **Observation:** Monitor group discussions for use of target language and participation.  
+- **Product:** Collect graphic organizers or written arguments.  
+  - **Emerging:** Check for a claim and one piece of evidence (e.g., "The graph shows ___").  
+  - **Developing:** Check for a claim, evidence, and basic reasoning with transitions.  
+  - **Bridging:** Check for a claim, multiple evidence points, reasoning, and a counterclaim.  
+
+#### Summative Assessment (Optional):  
+- Assign a take-home task: Write a paragraph arguing a position using a new data set. Provide rubrics tailored to proficiency levels.  
+
+---
+
+### Differentiation Strategies  
+- **Emerging:**  
+  - Simplified data sets (e.g., fewer numbers, clear visuals).  
+  - Sentence starters (e.g., "I see ___ in the data, so I think ___").  
+  - Pair with a Bridging student for peer modeling.  
+- **Developing:**  
+  - Moderately complex data with guiding questions (e.g., "What is the highest number?").  
+  - Graphic organizer with prompts for claim, evidence, and reasoning.  
+  - Opportunities to practice orally before writing.  
+- **Bridging:**  
+  - Complex data sets with multiple variables (e.g., line graphs with trends).  
+  - Challenge to include a counterclaim and rebuttal.  
+  - Option to research additional data for enrichment.  
+
+---
+
+### Alignment with WIDA Standards  
+- **Standard 1:** Students use social and instructional language to collaborate, ask questions, and present arguments in a classroom setting.  
+- **Standard 3:** Students apply the language of mathematics (e.g., describing trends, comparing data) to construct evidence-based arguments.  
+- **Key Language Use – Argue:** The lesson emphasizes constructing claims, supporting them with data, and explaining reasoning, tailored to each proficiency level.  
+
+---
+
+This lesson plan provides a structured yet flexible framework to support ELLs in developing argumentation skills while engaging with mathematical content. Let me know if you'd like adjustments or additional details!
